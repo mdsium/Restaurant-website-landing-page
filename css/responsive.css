@@ -1,0 +1,138 @@
+ /* Extra small devices (portrait phones, less than 576px) */
+ @media (max-width: 575.98px) { 
+    .food-card-img {
+        text-align: center;
+        margin-top: 25px;
+    }
+    .slide-contant a {
+        font-size: 22px;
+        padding: 5px 15px;
+       
+    }
+    .food-cardbox-text {
+        margin: 25px 30px;
+    }
+    .book-here {
+        text-align: center;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+    .footer-main-menu {
+        margin-top: 20px;
+    }
+    .footer-menu-area ul {
+        padding-top: 0px;
+    }
+    .footer-main-menu h2 {
+        font-size: 25px;
+    }
+    .slide-contant h2 {
+        font-size: 50px;
+    }
+    .slide-contant p {
+        font-size: 80px;
+    }
+    .social-icon a {
+        padding: 8px;
+        margin: 8px;
+    }
+
+}
+
+/* // Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) { 
+    .food-card-img {
+        text-align: center;
+    }
+    .food-card-img {
+        margin-top: 25px;
+    }
+    .food-cardbox-text {
+        margin: 25px 30px;
+    }
+    .book-here {
+        text-align: center;
+    }
+    .footer-menu {
+        text-align: center;
+    }
+    .footer-main-menu {
+        margin-top: 20px;
+    }
+    .footer-menu-area ul {
+        padding-top: 0px;
+    }
+    .footer-main-menu h2 {
+        font-size: 25px;
+    }
+    .slide-contant h2 {
+        font-size: 65px;
+    }
+   
+}
+
+/* // Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .food-card-img a img {
+        max-width: 170px;
+    }
+    .food-cardbox-text h2{
+        font-size: 14px;
+        padding-top: 15px;
+    }
+    .food-cardbox-text p{
+        font-size: 14px;
+        margin: 0;
+        padding: 0;
+    }
+    .food-cardbox-text {
+        margin: 0px 20px;
+    }
+    .discover-text {
+        margin-left: 50px;
+    }
+    select#city {
+        padding-right: 115px;
+    }
+    input[type=date], [type="time"] {
+        padding: 7px 19px;
+        letter-spacing: 0px;
+    }
+    input[type="time"] {
+        padding-right: 110px;
+    }
+    input[type="text"], [type="email"], [type="tel"] {
+        padding-right: 35px;
+    }
+    input[type=submit] {
+        padding: 8px 85px;
+    }
+    
+}
+
+/* // Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) { 
+    .food-cardbox-text {
+        margin: 38px 30px;
+    }
+    .food-card-img a img {
+    max-width: 230px;
+    }
+}
+
+
+/* // Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width:1440px) { 
+    .food-card-img a img {
+        min-width: 275px;
+    }
+    
+}
+  
+@media (min-width: 1440px) and (max-width:2560px) { 
+    .food-card-img a img {
+        min-width: 320px;
+    }
+   
+}
