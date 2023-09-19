@@ -1,0 +1,1 @@
+Creating a restaurant website landing page from a PSD to HTML using HTML, CSS, Bootstrap, and JavaScript is a multi-step process. Below, I'll outline the key steps and provide you with a basic template to get started. Please note that this is a simplified example, and you can customize it further based on your PSD design.
